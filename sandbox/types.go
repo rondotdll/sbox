@@ -1,4 +1,4 @@
-package sbox
+package sandbox
 
 type Sysinfo struct {
 	Base      string

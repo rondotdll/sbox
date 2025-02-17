@@ -1,11 +1,11 @@
 package main
 
 import (
-	"sbox/sbox"
+	"sbox/sandbox"
 )
 
 func main() {
-	info, err := sbox.FetchSystemInfo()
+	info, err := sandbox.FetchSystemInfo()
 	if err != nil {
 		panic(err)
 	}

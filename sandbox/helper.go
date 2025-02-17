@@ -1,4 +1,4 @@
-package sbox
+package sandbox
 
 import (
 	"fmt"
