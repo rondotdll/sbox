@@ -1,4 +1,4 @@
-module quarantine
+module sbox
 
 go 1.23
 
